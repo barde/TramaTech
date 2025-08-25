@@ -27,7 +27,7 @@
 
 <div align="center">
 
-| Before | During | After |
+| Headphones | Headphones | Armrest |
 |--------|--------|-------|
 | ![Original Jabra](images/headphones%20with%20modification%20on%20stand.jpg) | ![Work in Progress](images/close%20view%20on%20replaced%20cushions.jpg) | ![Completed Mod](images/armrest%20with%20replaced%20cushions.jpg) |
 | *Headphones with modification on stand* | *Close view on replaced cushions* | *Armrest with replaced cushions* |
