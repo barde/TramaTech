@@ -65,7 +65,7 @@ Learn more: [The World's Last Amadou Makers](https://medium.com/@istvan.daraban/
 
 #### Materials
 - **Amadou/Trama sheets** (10x10cm minimum)
-  - Purchase from [Korond craftsmen](https://www.facebook.com/AmadouTransylvania/) or [online suppliers](https://www.etsy.com/shop/amadoustore)
+  - Purchase directly from [https://www.etsy.com/de-en/listing/802350229/amadou-pieces-fly-fishing] or [Korond craftsmen](https://www.facebook.com/AmadouTransylvania/) 
 - **Knöfix glue** or similar leather adhesive
 - **Jabra Elite 85h headphones** (or similar over-ear model)
 - Optional: Orthopedic arm rest for second project
@@ -124,6 +124,7 @@ Learn more: [The World's Last Amadou Makers](https://medium.com/@istvan.daraban/
 - [Amadou Products Blog](https://amadouproducts.blogspot.com/) - Traditional techniques
 - [Korond Amadou Makers](https://www.facebook.com/AmadouTransylvania/) - Direct from craftsmen
 - [Fungus Federation of Santa Cruz](https://ffsc.us/MOM%5CFomes_fomentarius) - Mycological information
+- [Premium hand crafted Amadou hats and materials](https://www.etsy.com/shop/amadoustore)
 
 ### Technical Guides
 - [Primitive Ways: Amadou Substitutes](https://www.primitiveways.com/Amadou%20substitutes.html)
