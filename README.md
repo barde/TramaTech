@@ -29,8 +29,8 @@
 
 | Before | During | After |
 |--------|--------|-------|
-| ![Original Jabra](images/original-cushions.jpg) | ![Work in Progress](images/work-in-progress.jpg) | ![Completed Mod](images/completed-headphones.jpg) |
-| *Original synthetic leather* | *Trama preparation* | *Final result* |
+| ![Original Jabra](images/headphones%20with%20modification%20on%20stand.jpg) | ![Work in Progress](images/close%20view%20on%20replaced%20cushions.jpg) | ![Completed Mod](images/armrest%20with%20replaced%20cushions.jpg) |
+| *Headphones with modification on stand* | *Close view on replaced cushions* | *Armrest with replaced cushions* |
 
 | Arm Rest Modification |
 |----------------------|
