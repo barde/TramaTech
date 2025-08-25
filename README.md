@@ -27,15 +27,15 @@
 
 <div align="center">
 
-| Headphones | Headphones | Armrest |
+| Headphones | Headphones |
 |--------|--------|-------|
-| ![Original Jabra](images/headphones%20with%20modification%20on%20stand.jpg) | ![Work in Progress](images/close%20view%20on%20replaced%20cushions.jpg) | ![Completed Mod](images/armrest%20with%20replaced%20cushions.jpg) |
-| *Headphones with modification on stand* | *Close view on replaced cushions* | *Armrest with replaced cushions* |
+| ![Original Jabra](images/headphones%20with%20modification%20on%20stand.jpg) | ![Work in Progress](images/close%20view%20on%20replaced%20cushions.jpg) |
+| *Headphones with modification on stand* | *Close view on replaced cushions* | 
 
-| Arm Rest Modification |
+| Arm Rest  |  Arm Rest |
 |----------------------|
-| ![Arm Rest](images/armrest-completed.jpg) |
-| *Orthopedic arm rest with trama padding* |
+| ![Arm Rest](images/armrest-completed.jpg) |  ![Completed Mod](images/armrest%20with%20replaced%20cushions.jpg) |
+| *Orthopedic arm rest with trama padding* | *Closeup Armrest with replaced cushions* |
 
 </div>
 
