@@ -65,7 +65,7 @@ Learn more: [The World's Last Amadou Makers](https://medium.com/@istvan.daraban/
 
 #### Materials
 - **Amadou/Trama sheets** (10x10cm minimum)
-  - Purchase directly from [https://www.etsy.com/de-en/listing/802350229/amadou-pieces-fly-fishing] or [Korond craftsmen](https://www.facebook.com/AmadouTransylvania/) 
+  - Purchase directly from [my source](https://www.etsy.com/de-en/listing/802350229/amadou-pieces-fly-fishing) or [Korond craftsmen](https://www.facebook.com/AmadouTransylvania/) 
 - **Knöfix glue** or similar leather adhesive
 - **Jabra Elite 85h headphones** (or similar over-ear model)
 - Optional: Orthopedic arm rest for second project
