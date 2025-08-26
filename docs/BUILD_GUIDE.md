@@ -40,7 +40,6 @@ This guide walks you through replacing synthetic leather ear cushions on Jabra E
 
 ### Step 3: Document Original State
 ![Original Headphones](../images/IMG_0145.jpg)
-*Take photos of your headphones before modification for reference*
 
 ## Part 2: Removal Process (10 minutes)
 
