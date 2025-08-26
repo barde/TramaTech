@@ -46,15 +46,15 @@ This guide walks you through replacing synthetic leather ear cushions on Jabra E
 
 ### Step 4: Remove Original Cushions
 1. **Locate attachment points**: The Jabra Elite 85h cushions are held by plastic clips
-2. **Gentle removal**: 
-   - Insert a thin plastic tool between cushion and cup
+2. **Gentle removal**:
+   - Try to remove the cushion by hand: just apply some pulling force on the faux leather
+   - Insert a thin plastic tool between cushion and cup if it doesn't loose up
    - Work around the edge slowly
    - Apply even pressure to avoid breaking clips
-3. **Preserve the foam**: Keep the internal foam padding intact
-4. **Clean residue**: Remove any adhesive residue with isopropyl alcohol
+4. **Preserve the foam**: Keep the internal foam padding intact
+5. **Clean residue**: Remove any adhesive residue with isopropyl alcohol
 
-![Cushion Removal](../images/IMG_0146.jpg)
-*Carefully remove the original synthetic leather*
+![Cushion By Nature](../images/IMG_0146.jpg)
 
 ### Step 5: Create Templates
 1. **Trace the shape**: Place removed cushion on paper
@@ -62,7 +62,7 @@ This guide walks you through replacing synthetic leather ear cushions on Jabra E
    - Inner circle (speaker opening)
    - Outer edge
    - Any curves or indentations
-3. **Add seam allowance**: Add 2-3mm around edges for overlap
+3. **Add seam allowance**: Add 2-3mm around edges for overlap and latter cutting space
 4. **Cut paper template**: Test fit on headphone cup
 
 ## Part 3: Trama Preparation (15 minutes)
@@ -74,8 +74,7 @@ This guide walks you through replacing synthetic leather ear cushions on Jabra E
    - If too thick: Carefully split layers
 3. **Select best sections**: Choose areas without defects
 
-![Trama Preparation](../images/IMG_0147.jpg)
-*Amadou sheet ready for cutting*
+![The Trama is like like leather](../images/IMG_0147.jpg)
 
 ### Step 7: Cut the Trama
 1. **Transfer pattern**: Place template on amadou
@@ -86,8 +85,7 @@ This guide walks you through replacing synthetic leather ear cushions on Jabra E
    - Keep blade perpendicular to surface
 4. **Test fit**: Check against headphone cup
 
-![Cut Pieces](../images/IMG_0148.jpg)
-*Precisely cut trama pieces*
+![The end product](../images/IMG_0148.jpg)
 
 ## Part 4: Assembly (20 minutes)
 
@@ -106,19 +104,19 @@ This guide walks you through replacing synthetic leather ear cushions on Jabra E
 
 ### Step 10: Attach Trama
 1. **Position carefully**: Start at one edge
-2. **Press firmly**: Work from center outward
+2. **Press firmly**: Work from center outward. My glue works by pressure or impact.
 3. **Remove air bubbles**: Smooth with fingers
 4. **Hammer gently**:
-   - Use light taps
+   - Use light taps not to damage the plastic or trama
+   - Use a soft hammer, i.e. with a plastic hammering surface
    - Work systematically across surface
    - This helps adhesion and flattens material
 
 ![Assembly Process](../images/IMG_0150.jpg)
-*Attaching trama to headphone cup*
 
 ### Step 11: Finishing Touches
 1. **Trim excess**: Use sharp knife at angle
-2. **Smooth edges**: Press firmly around perimeter
+2. **Smooth edges**: Press firmly around perimeter and use coarse sanding paper
 3. **Shape to fit**: Mold trama to cup contours
 4. **Final hammering**: Ensure complete adhesion
 
@@ -170,15 +168,14 @@ Follow similar process for orthopedic arm rest:
 - Store in case when not using
 
 ### Long-term Maintenance
-- Condition annually with light oil
-- Replace when worn (2-3 years typical)
+- Replace when worn
 - Can be composted at end of life
 
 ## Results and Performance
 
 ### Acoustic Changes
 - **Positive**: Warmer, more natural sound
-- **Negative**: Slight reduction in bass seal
+- **Negative**: Slight reduction in sealing
 - **ANC Impact**: 10-15% reduction in effectiveness
 
 ### Comfort Improvements
@@ -186,6 +183,7 @@ Follow similar process for orthopedic arm rest:
 - Natural temperature regulation
 - Softer feel against skin
 - Antimicrobial properties
+- Nice shroomy smell
 
 ## Tips for Success
 
@@ -205,11 +203,7 @@ Follow similar process for orthopedic arm rest:
 - **Hybrid approach**: Combine with memory foam
 
 ### Other Headphone Models
-This technique works with:
-- Sony WH-1000XM series
-- Bose QuietComfort series
-- Audio-Technica ATH-M50x
-- Most over-ear headphones with removable cushions
+This technique works with most over-ear headphones with removable cushions
 
 ## Safety and Health
 
@@ -228,12 +222,8 @@ This technique works with:
 
 ### Share Your Build
 - Post photos with #TramaTech
-- Join discussions at r/headphonemods
 - Contact traditional makers for questions
 
-### Resources
-- [Amadou Processing Guide](https://amadouproducts.blogspot.com/)
-- [Headphone Modding Community](https://www.head-fi.org/)
 
 ## Conclusion
 
