@@ -88,15 +88,23 @@ Learn more: [The World's Last Amadou Makers](https://medium.com/@istvan.daraban/
 - Fine sandpaper (optional)
 - Isopropyl alcohol for cleaning
 
+### Construction Technique
+
+**Two-Layer Trama Design**: This modification uses a dual-layer approach for optimal comfort and durability:
+- **Middle Layer**: Harder trama piece positioned between the plastic cushion element and top layer
+- **Top Layer**: Especially soft trama for direct skin contact
+- Both layers are bonded together using a small amount of Knöfix glue
+
 ### Basic Steps
 
 1. **Remove Original Cushions**: Carefully detach synthetic leather from headphones
 2. **Create Templates**: Trace original cushion shapes onto paper
-3. **Cut Trama**: Use templates to cut amadou sheets precisely
-4. **Prepare Surface**: Clean adhesive areas with isopropyl alcohol
-5. **Apply Adhesive**: Use Knöfix glue sparingly on both surfaces
-6. **Attach & Shape**: Position trama, hammer gently for adhesion
-7. **Finishing Touches**: Trim excess with sharp knife
+3. **Cut Trama**: Use templates to cut both hard and soft amadou sheets precisely
+4. **Layer Assembly**: Apply thin layer of Knöfix between trama pieces
+5. **Prepare Surface**: Clean adhesive areas with isopropyl alcohol
+6. **Apply Adhesive**: Use Knöfix glue sparingly on both surfaces
+7. **Attach & Shape**: Position layered trama, hammer gently for adhesion
+8. **Finishing Touches**: Trim excess with sharp knife
 
 📖 **[Detailed Build Instructions →](docs/BUILD_GUIDE.md)**
 
