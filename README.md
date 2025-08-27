@@ -1,8 +1,6 @@
 # TramaTech: Traditional Trama Meets Modern Technology
 
-<div align="center">
-  <img src="images/trama-headphones-stand-header.jpg" alt="TramaTech - Headphones with Trama Modification on Stand" width="100%">
-</div>
+
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![DIY](https://img.shields.io/badge/DIY-Project-brightgreen)](https://github.com)
@@ -11,9 +9,11 @@
 > Combining the ancient art of tinder fungus leather (amadou/trama) with modern audio technology for sustainable, comfortable, and naturally antimicrobial headphone modifications
 
 <div align="center">
+  <img src="images/trama-headphones-stand-header.jpg" alt="TramaTech - Headphones with Trama Modification on Stand" width="100%">
+</div>
+
+<div align="center">
   <img src="images/trama-headphones-detail.jpg" alt="TramaTech - Detailed View of Trama Ear Cushions" width="80%">
-  <br>
-  <em>Detailed view showing the natural texture and craftsmanship of trama ear cushions</em>
 </div>
 
 ## 🍄 Project Overview
